@@ -1,0 +1,9 @@
+authtoken: 6AUK1VNZbTPCiwCoA2dW1_4gbKDoNrZXSfxjuHCUmJY
+
+tunnels:
+  msfconsole:
+    proto: tcp
+    addr: 4444
+  http:
+    addr: 80
+    proto: http
